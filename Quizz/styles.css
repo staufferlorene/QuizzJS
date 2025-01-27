@@ -3,3 +3,7 @@ body {
     margin: 0;
     color: blueviolet;
 }
+
+p {
+    padding-top: 40px;
+}
